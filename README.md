@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vanriwerson
 - 👀 I’m interested in learn new technologies
-- 🌱 I’m currently learning coding in C / C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning coding in Java Script React JS
+- 📫 How to reach me: www.linkedin.com/in/bruno-riwerson
+- 
 
 <!---
 vanriwerson/vanriwerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
