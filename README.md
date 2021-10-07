@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vanriwerson
 - 👀 I’m interested in learn new technologies
-- 🌱 I’m currently learning coding in Java Script React JS
+- 🌱 I’m currently learning coding in Java Script React JS, Vue JS
 and other Front-end stuffs ^^
 - 📫 How to reach me: www.linkedin.com/in/bruno-riwerson
 
