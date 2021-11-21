@@ -1,3 +1,5 @@
+<img src="header.svg">
+
 ## Muito prazer! Eu sou Bruno Riwerson, desenvolvedor Front-end e Analista de Sistemas (em construção ^^)!
 
 <div align="center">
