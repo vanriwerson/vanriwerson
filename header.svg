@@ -53,7 +53,7 @@
 					margin: 0;
 					width: 100%;
 					height: 300px;
-					background: linear-gradient(-45deg, #916bfa, #54fa86, #04750d);
+					background: linear-gradient(-45deg, #230181, #026620, #002f04);
 					background-size: 600% 400%;
 					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
@@ -62,7 +62,7 @@
 				}
 
 				h1 {
-					font-size: 30px;
+					font-size: 40px;
 					line-height: 1.3;
 					letter-spacing: 5px;
 					text-transform: uppercase;
