@@ -1,7 +1,7 @@
 <div align="center">
   <img src="header.svg">
   <h2>Muito prazer! Eu sou Bruno Riwerson, desenvolvedor Front-end e Analista de Sistemas (em construção ^^)!</h2>
-</div>
+</div><br>
 
 <div align="center">
   <a href="https://github.com/vanriwerson">
