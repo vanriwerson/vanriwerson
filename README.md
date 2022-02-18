@@ -1,6 +1,6 @@
 <div align="center">
   <img src="header.svg">
-  <h2>Muito prazer! Eu sou Bruno Riwerson, desenvolvedor Front-end e Analista de Sistemas (em construção ^^)!</h2>
+  <h2>Muito prazer! Eu sou Bruno Riwerson, Desenvolvedor Web Full Stack e Analista de Sistemas (em construção ^^)!</h2>
 </div><br>
 
 <div align="center">
