@@ -26,7 +26,8 @@
 </div><br>
 
 - I’m interested in learn new technologies
-- Reach me on www.linkedin.com/in/bruno-riwerson
+- Reach me on www.linkedin.com/in/bruno-riwerson or
+- riwerson@gmail.com
 
 <!---
 vanriwerson/vanriwerson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
