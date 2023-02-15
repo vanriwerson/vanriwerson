@@ -1,6 +1,6 @@
 <div align="center">
   <img src="header.svg">
-  <h2>Muito prazer! Eu sou Bruno Riwerson, Desenvolvedor Web Full Stack e Analista de Sistemas (em construção ^^)!</h2>
+  <h2>Muito prazer! Eu sou Bruno Riwerson, Desenvolvedor Web Full Stack e futuro Analista de Sistemas!</h2>
 </div><br>
 
 <div align="center">
@@ -23,6 +23,7 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div><br>
 
 - I’m interested in learn new technologies
