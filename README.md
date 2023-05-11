@@ -3,7 +3,16 @@
   <h2>Muito prazer! Eu sou Bruno Riwerson, Desenvolvedor Web Full Stack e futuro Analista de Sistemas!</h2>
 </div><br>
   
-<div style="display: inline_block"><br>
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vanriwerson&show_icons=true&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanriwerson&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanriwerson&theme=highcontrast&hide_border=true" />
+ </div>
+
+<div align="center"><br>
   <h3>Actually studying:</h3>
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
