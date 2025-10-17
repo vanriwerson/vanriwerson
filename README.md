@@ -1,4 +1,4 @@
-# Hello, i'm Bruno Riwerson Silva 👋
+# Hello, I'm Bruno Riwerson Silva 👋
 > Full Stack web developer and Systems Analyst.
 > 
 > Collaborative Leadership.
