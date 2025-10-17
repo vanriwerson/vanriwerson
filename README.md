@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="header.svg">
-  <h2>Muito prazer! Eu sou Bruno Riwerson, Desenvolvedor Web Full Stack e Analista de Sistemas!</h2>
+  <h2>Muito prazer! Eu sou Bruno Riwerson Silva, Desenvolvedor Web Full Stack e Analista de Sistemas!</h2>
 </div><br>
   
 <div align="center">
