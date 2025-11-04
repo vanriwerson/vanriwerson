@@ -9,7 +9,7 @@
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=vanriwerson&show_icons=true&theme=dark"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanriwerson&layout=compact&langs_count=7&theme=dark"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanriwerson&theme=highcontrast&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vanriwerson&theme=highcontrast&hide_border=true" />
 </div>
 
 ---
